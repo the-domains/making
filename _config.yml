@@ -1,0 +1,14 @@
+layout_spectrum: 0.9302136464975774
+typography_spectrum: 0.7744976226240396
+color:
+  brandStrength: 0.3170436439104378
+  lightness: 0.29752318700775504
+  saturation: 0.29834239068441093
+  rhythmicContrast: 0.14924597484059632
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: making
